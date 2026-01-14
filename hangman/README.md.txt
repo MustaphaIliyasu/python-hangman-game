@@ -25,6 +25,7 @@ Concepts Used
 - Functions
 - Random module
 
+![Hangman Output](Screenshots/output.png
 
 How to Run
 1. Download or clone this repository
@@ -32,3 +33,4 @@ How to Run
 3. Run the program:
    bash
    python main.py
+
